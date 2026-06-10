@@ -1,0 +1,9 @@
+{
+  "name": "ajith-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y serve@14 . -l 3000",
+    "build": "echo \"Static site - no build step required\""
+  }
+}

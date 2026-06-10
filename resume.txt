@@ -1,0 +1,42 @@
+AJITH P
+Embedded Systems | IoT | PCB Design Enthusiast
+Tenkasi, Tamil Nadu, India
+Email: ajiajith95667@gmail.com | Phone: +91 9566745109
+LinkedIn: https://www.linkedin.com/in/ajith-p
+
+PROFILE SUMMARY
+ECE student passionate about Embedded Systems, IoT, and Circuit Design with hands-on
+experience in developing hardware-based projects. Interested in applying technical skills
+to build efficient and innovative real-world solutions.
+
+TECHNICAL SKILLS
+Embedded Systems, IoT, PCB Design, Arduino, ESP32, Embedded C, Basic Python, Circuit Design
+
+SOFT SKILLS
+Teamwork, Leadership, Adaptability, Time Management
+
+EXPERIENCE
+1. Core Global Hi-Tech Solution — IoT / Embedded Systems Intern (Dec 2025 – Present)
+   - Developed real-time embedded projects, microcontrollers, sensor interfacing,
+     circuit design, testing and debugging hardware systems.
+2. TECHVOLT SOFTWARE PVT. LTD. — Internship / Training (July 07 – 15, 2025)
+   - Arduino and IoT training, sensor interfacing, microcontroller programming,
+     ultrasonic sensor project.
+
+PROJECTS
+- Smart Helmet with Airbag System (ESP32, Embedded C, IoT)
+- Smart Home Automation System (ESP32, Arduino, Relay, Wi-Fi, Blynk)
+- Gas Leakage Detection System (Arduino, ESP32, MQ Sensor)
+- Smart Street Light System (LDR, PIR Sensor, ESP32)
+- Multi-Mode Robotic Car (DC Motors, L298N)
+- Line Following Robot (IR Sensors, DC Motors)
+
+CERTIFICATIONS
+- Arduino-based IoT Development — TECHVOLT SOFTWARE PVT. LTD.
+- PCB Design using Autodesk Eagle
+- Embedded Systems Workshop
+
+EDUCATION
+- B.E Electronics & Communication Engineering, PPG Institute of Technology, Coimbatore
+  (2023 – 2027), CGPA: 7.20
+- HSC, Government Higher Secondary School, Tenkasi (2022 – 2023)
